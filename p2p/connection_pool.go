@@ -42,10 +42,10 @@ import log "github.com/sirupsen/logrus"
 import "github.com/paulbellamy/ratecounter"
 import "github.com/prometheus/client_golang/prometheus"
 
-import "github.com/deroclassic/deroclassic_suite/block"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/globals"
-import "github.com/deroclassic/deroclassic_suite/transaction"
+import "github.com/DeroCommunity/deroclassic_suite/block"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/globals"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
 
 // any connection incoming/outgoing can only be in this state
 //type Conn_State uint32

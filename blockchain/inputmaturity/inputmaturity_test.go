@@ -18,7 +18,7 @@ package inputmaturity
 
 import "testing"
 
-import "github.com/deroclassic/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/config"
 
 //this file implements the logic to detect whether an input is mature or still locked
 //This function is crucial as any bugs can have catastrophic effects

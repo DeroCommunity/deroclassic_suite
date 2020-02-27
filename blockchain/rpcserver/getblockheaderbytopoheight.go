@@ -27,8 +27,8 @@ import "context"
 import "github.com/intel-go/fastjson"
 import "github.com/osamingo/jsonrpc"
 
-//import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/structures"
+//import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/structures"
 
 type GetBlockHeaderByTopoHeight_Handler struct{}
 

@@ -19,11 +19,11 @@ package proof
 import "fmt"
 import "encoding/hex"
 
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/address"
-import "github.com/deroclassic/deroclassic_suite/transaction"
-import "github.com/deroclassic/deroclassic_suite/crypto/ringct"
-//import "github.com/deroclassic/deroclassic_suite/walletapi" // to decode encrypted payment ID
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/address"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
+import "github.com/DeroCommunity/deroclassic_suite/crypto/ringct"
+//import "github.com/DeroCommunity/deroclassic_suite/walletapi" // to decode encrypted payment ID
  
 
 // used to encrypt payment id

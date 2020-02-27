@@ -42,11 +42,11 @@ import "github.com/romana/rlog"
 import "github.com/ybbus/jsonrpc"
 import "github.com/vmihailenco/msgpack"
 
-import "github.com/deroclassic/deroclassic_suite/config"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/globals"
-import "github.com/deroclassic/deroclassic_suite/structures"
-import "github.com/deroclassic/deroclassic_suite/transaction"
+import "github.com/DeroCommunity/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/globals"
+import "github.com/DeroCommunity/deroclassic_suite/structures"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
 
 // this global variable should be within wallet structure
 var Connected bool = false

@@ -36,18 +36,18 @@ import "github.com/chzyer/readline"
 import "github.com/docopt/docopt-go"
 import log "github.com/sirupsen/logrus"
 
-import "github.com/deroclassic/deroclassic_suite/address"
-import "github.com/deroclassic/deroclassic_suite/p2pv2"
+import "github.com/DeroCommunity/deroclassic_suite/address"
+import "github.com/DeroCommunity/deroclassic_suite/p2pv2"
 
 
-import "github.com/deroclassic/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/config"
 
-import "github.com/deroclassic/deroclassic_suite/transaction"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
 
-//import "github.com/deroclassic/deroclassic_suite/checkpoints"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/crypto/ringct"
-import "github.com/deroclassic/deroclassic_suite/blockchain/rpcserver"
+//import "github.com/DeroCommunity/deroclassic_suite/checkpoints"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto/ringct"
+import "github.com/DeroCommunity/deroclassic_suite/blockchain/rpcserver"
 */
 
 //import "fmt"
@@ -57,7 +57,7 @@ import "math/rand"
 import "github.com/beevik/ntp"
 import "github.com/romana/rlog"
 
-import "github.com/deroclassic/deroclassic_suite/globals"
+import "github.com/DeroCommunity/deroclassic_suite/globals"
 
 // these servers automatically rotate every hour as per documentation
 // we also rotate them randomly

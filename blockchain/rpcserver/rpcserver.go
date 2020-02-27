@@ -37,11 +37,11 @@ import log "github.com/sirupsen/logrus"
 import "github.com/prometheus/client_golang/prometheus"
 import "github.com/prometheus/client_golang/prometheus/promhttp"
 
-import "github.com/deroclassic/deroclassic_suite/config"
-import "github.com/deroclassic/deroclassic_suite/globals"
-import "github.com/deroclassic/deroclassic_suite/blockchain"
-import "github.com/deroclassic/deroclassic_suite/structures"
-import "github.com/deroclassic/deroclassic_suite/metrics"
+import "github.com/DeroCommunity/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/globals"
+import "github.com/DeroCommunity/deroclassic_suite/blockchain"
+import "github.com/DeroCommunity/deroclassic_suite/structures"
+import "github.com/DeroCommunity/deroclassic_suite/metrics"
 
 var DEBUG_MODE bool
 

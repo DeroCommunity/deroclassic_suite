@@ -21,7 +21,7 @@ import "fmt"
 //import "sync"
 //import "sync/atomic"
 
-import "github.com/deroclassic/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
 
 /* this files handles the generation and verification in ringct simple */
 

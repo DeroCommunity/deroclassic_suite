@@ -32,14 +32,14 @@ import "github.com/romana/rlog"
 
 // this file creates the blobs which can be used to mine new blocks
 
-import "github.com/deroclassic/deroclassic_suite/block"
-import "github.com/deroclassic/deroclassic_suite/config"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/globals"
-import "github.com/deroclassic/deroclassic_suite/address"
+import "github.com/DeroCommunity/deroclassic_suite/block"
+import "github.com/DeroCommunity/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/globals"
+import "github.com/DeroCommunity/deroclassic_suite/address"
 
-//import "github.com/deroclassic/deroclassic_suite/emission"
-import "github.com/deroclassic/deroclassic_suite/transaction"
+//import "github.com/DeroCommunity/deroclassic_suite/emission"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
 
 //NOTE: this function is quite naughty due to chicken and egg problem
 // we cannot calculate reward until we known blocksize ( exactly upto byte size )

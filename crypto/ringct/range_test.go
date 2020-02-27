@@ -19,7 +19,7 @@ package ringct
 import "testing"
 import "math/rand"
 
-import "github.com/deroclassic/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
 
 func Test_Range_and_Borromean_Signature(t *testing.T) {
 	var c, mask crypto.Key

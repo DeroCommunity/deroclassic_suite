@@ -20,8 +20,8 @@ import "runtime/debug"
 
 import "github.com/romana/rlog"
 
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/address"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/address"
 
 // this structure is json/msgpack encodeable to enable seamless RPC support
 // this is passes as tx data

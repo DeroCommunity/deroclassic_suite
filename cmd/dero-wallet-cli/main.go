@@ -42,12 +42,12 @@ import log "github.com/sirupsen/logrus"
 
 //import "github.com/vmihailenco/msgpack"
 
-//import "github.com/deroclassic/deroclassic_suite/address"
+//import "github.com/DeroCommunity/deroclassic_suite/address"
 
-import "github.com/deroclassic/deroclassic_suite/config"
-import "github.com/deroclassic/deroclassic_suite/globals"
-import "github.com/deroclassic/deroclassic_suite/walletapi"
-import "github.com/deroclassic/deroclassic_suite/walletapi/mnemonics"
+import "github.com/DeroCommunity/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/globals"
+import "github.com/DeroCommunity/deroclassic_suite/walletapi"
+import "github.com/DeroCommunity/deroclassic_suite/walletapi/mnemonics"
 
 var command_line string = `dero-wallet-cli 
 DERO Classic

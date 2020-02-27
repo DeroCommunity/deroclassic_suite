@@ -29,11 +29,11 @@ import "encoding/hex"
 
 import "github.com/chzyer/readline"
 
-import "github.com/deroclassic/deroclassic_suite/config"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/globals"
-import "github.com/deroclassic/deroclassic_suite/address"
-import "github.com/deroclassic/deroclassic_suite/walletapi"
+import "github.com/DeroCommunity/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/globals"
+import "github.com/DeroCommunity/deroclassic_suite/address"
+import "github.com/DeroCommunity/deroclassic_suite/walletapi"
 
 var account walletapi.Account
 

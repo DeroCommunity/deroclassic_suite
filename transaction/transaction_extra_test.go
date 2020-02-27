@@ -20,7 +20,7 @@ import "fmt"
 import "testing"
 import "encoding/hex"
 
-import "github.com/deroclassic/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
 
 func Test_Normal_PaymentID_parsing(t *testing.T) {
 

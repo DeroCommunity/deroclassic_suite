@@ -27,7 +27,7 @@ import "github.com/romana/rlog"
 import "github.com/intel-go/fastjson"
 import "github.com/osamingo/jsonrpc"
 
-import "github.com/deroclassic/deroclassic_suite/structures"
+import "github.com/DeroCommunity/deroclassic_suite/structures"
 
 type Make_Integrated_Address_Handler struct { // this has access to the wallet
 	r *RPCServer

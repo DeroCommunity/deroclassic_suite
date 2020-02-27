@@ -18,7 +18,7 @@ package ringct
 
 import "testing"
 
-import "github.com/deroclassic/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
 
 func Test_LowOrder_KeyImage(t *testing.T) {
 

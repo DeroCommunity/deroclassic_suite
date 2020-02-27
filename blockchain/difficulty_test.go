@@ -18,7 +18,7 @@ package blockchain
 
 import "testing"
 
-import "github.com/deroclassic/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
 
 /*
  * raw data from daemon

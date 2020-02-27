@@ -31,14 +31,14 @@ import "runtime/debug"
 import "github.com/romana/rlog"
 import "github.com/vmihailenco/msgpack"
 
-import "github.com/deroclassic/deroclassic_suite/config"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/globals"
-import "github.com/deroclassic/deroclassic_suite/storage"
-import "github.com/deroclassic/deroclassic_suite/crypto/ringct"
-import "github.com/deroclassic/deroclassic_suite/transaction"
+import "github.com/DeroCommunity/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/globals"
+import "github.com/DeroCommunity/deroclassic_suite/storage"
+import "github.com/DeroCommunity/deroclassic_suite/crypto/ringct"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
 
-//import "github.com/deroclassic/deroclassic_suite/walletapi"
+//import "github.com/DeroCommunity/deroclassic_suite/walletapi"
 
 type Index_Data struct {
 	InKey     ringct.CtKey

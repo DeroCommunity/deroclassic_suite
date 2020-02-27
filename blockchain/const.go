@@ -16,7 +16,7 @@
 
 package blockchain
 
-import "github.com/deroclassic/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
 
 // this file contains all the constant
 

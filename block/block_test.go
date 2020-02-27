@@ -20,9 +20,9 @@ import "bytes"
 import "testing"
 import "encoding/hex"
 
-import "github.com/deroclassic/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/config"
 
-import "github.com/deroclassic/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
 
 func Test_Generic_block_serdes(t *testing.T) {
 	var bl, bldecoded Block

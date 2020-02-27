@@ -18,11 +18,11 @@ package blockchain
 
 import "fmt"
 
-import "github.com/deroclassic/deroclassic_suite/config"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/address"
-import "github.com/deroclassic/deroclassic_suite/crypto/ringct"
-import "github.com/deroclassic/deroclassic_suite/transaction"
+import "github.com/DeroCommunity/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/address"
+import "github.com/DeroCommunity/deroclassic_suite/crypto/ringct"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
 
 // this function creates a miner tx, with specific blockreward
 // TODO we should consider hardfork  version while creating a miner tx

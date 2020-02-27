@@ -21,8 +21,8 @@ import _ "unsafe"
 import "testing"
 import "encoding/hex"
 
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/crypto/ringct"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto/ringct"
 
 // TODO we need to figure out a way to control the variable with exporting it
 var bulletproof_compatibility bool

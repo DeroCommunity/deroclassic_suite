@@ -36,18 +36,18 @@ import "github.com/chzyer/readline"
 import "github.com/docopt/docopt-go"
 import log "github.com/sirupsen/logrus"
 
-import "github.com/deroclassic/deroclassic_suite/address"
-import "github.com/deroclassic/deroclassic_suite/p2pv2"
+import "github.com/DeroCommunity/deroclassic_suite/address"
+import "github.com/DeroCommunity/deroclassic_suite/p2pv2"
 
 
-import "github.com/deroclassic/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/config"
 
-import "github.com/deroclassic/deroclassic_suite/transaction"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
 
-//import "github.com/deroclassic/deroclassic_suite/checkpoints"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/crypto/ringct"
-import "github.com/deroclassic/deroclassic_suite/blockchain/rpcserver"
+//import "github.com/DeroCommunity/deroclassic_suite/checkpoints"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto/ringct"
+import "github.com/DeroCommunity/deroclassic_suite/blockchain/rpcserver"
 */
 
 import "time"
@@ -59,12 +59,12 @@ import "sync/atomic"
 //import "encoding/hex"
 import "encoding/binary"
 
-import "github.com/deroclassic/deroclassic_suite/block"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/globals"
-import "github.com/deroclassic/deroclassic_suite/address"
-import "github.com/deroclassic/deroclassic_suite/blockchain"
-import "github.com/deroclassic/deroclassic_suite/cryptonight"
+import "github.com/DeroCommunity/deroclassic_suite/block"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/globals"
+import "github.com/DeroCommunity/deroclassic_suite/address"
+import "github.com/DeroCommunity/deroclassic_suite/blockchain"
+import "github.com/DeroCommunity/deroclassic_suite/cryptonight"
 
 // p2p needs to export a varible declaring whether the chain is in syncronising mode
 

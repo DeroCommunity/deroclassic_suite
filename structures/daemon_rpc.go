@@ -22,10 +22,10 @@
 
 package structures
 
-import "github.com/deroclassic/deroclassic_suite/globals"
-import "github.com/deroclassic/deroclassic_suite/dvm"
+import "github.com/DeroCommunity/deroclassic_suite/globals"
+import "github.com/DeroCommunity/deroclassic_suite/dvm"
 
-//import "github.com/deroclassic/deroclassic_suite/structures"
+//import "github.com/DeroCommunity/deroclassic_suite/structures"
 
 type (
 	GetBlockHeaderByHeight_Params struct {

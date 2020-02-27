@@ -21,12 +21,12 @@ import "bytes"
 import "sort"
 import "runtime/debug"
 
-import "github.com/deroclassic/deroclassic_suite/address"
-import "github.com/deroclassic/deroclassic_suite/storage"
-import "github.com/deroclassic/deroclassic_suite/dvm"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/block"
-import "github.com/deroclassic/deroclassic_suite/transaction"
+import "github.com/DeroCommunity/deroclassic_suite/address"
+import "github.com/DeroCommunity/deroclassic_suite/storage"
+import "github.com/DeroCommunity/deroclassic_suite/dvm"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/block"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
 
 import "github.com/vmihailenco/msgpack"
 

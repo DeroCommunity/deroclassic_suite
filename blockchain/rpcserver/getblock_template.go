@@ -30,10 +30,10 @@ import "github.com/osamingo/jsonrpc"
 
 import "golang.org/x/time/rate"
 
-import "github.com/deroclassic/deroclassic_suite/config"
-import "github.com/deroclassic/deroclassic_suite/address"
-import "github.com/deroclassic/deroclassic_suite/structures"
-import "github.com/deroclassic/deroclassic_suite/transaction"
+import "github.com/DeroCommunity/deroclassic_suite/config"
+import "github.com/DeroCommunity/deroclassic_suite/address"
+import "github.com/DeroCommunity/deroclassic_suite/structures"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
 
 type GetBlockTemplate_Handler struct{}
 

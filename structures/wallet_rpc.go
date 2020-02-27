@@ -22,7 +22,7 @@
 
 package structures
 
-import "github.com/deroclassic/deroclassic_suite/transaction"
+import "github.com/DeroCommunity/deroclassic_suite/transaction"
 
 type (
 	GetBalance_Params struct{} // no params

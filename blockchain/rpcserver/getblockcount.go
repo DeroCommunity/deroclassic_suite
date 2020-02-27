@@ -24,7 +24,7 @@ import "context"
 import "github.com/intel-go/fastjson"
 import "github.com/osamingo/jsonrpc"
 
-import "github.com/deroclassic/deroclassic_suite/structures"
+import "github.com/DeroCommunity/deroclassic_suite/structures"
 
 type GetBlockCount_Handler struct{}
 

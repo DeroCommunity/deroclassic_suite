@@ -17,7 +17,7 @@
 package ringct
 
 //import "fmt"
-import "github.com/deroclassic/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
 
 const ATOMS = 64 // 64 bit in the amount field
 

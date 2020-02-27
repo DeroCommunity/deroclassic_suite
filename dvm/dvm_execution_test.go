@@ -20,7 +20,7 @@ import "fmt"
 import "reflect"
 import "testing"
 
-//import "github.com/deroclassic/deroclassic_suite/crypto"
+//import "github.com/DeroCommunity/deroclassic_suite/crypto"
 
 var execution_tests = []struct {
 	Name       string

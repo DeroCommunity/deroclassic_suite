@@ -17,8 +17,8 @@
 package blockchain
 
 //import "fmt"
-import "github.com/deroclassic/deroclassic_suite/crypto"
-import "github.com/deroclassic/deroclassic_suite/structures"
+import "github.com/DeroCommunity/deroclassic_suite/crypto"
+import "github.com/DeroCommunity/deroclassic_suite/structures"
 
 /* fill up the above structure from the blockchain */
 func (chain *Blockchain) GetBlockHeader(hash crypto.Hash) (result structures.BlockHeader_Print, err error) {
