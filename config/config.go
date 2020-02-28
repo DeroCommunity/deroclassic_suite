@@ -33,7 +33,7 @@ const BLOCK_TIME = uint64(12)
 // coin emiision related settings
 const COIN_MONEY_SUPPLY = uint64(18446744073709551615) // 2^64-1
 const COIN_EMISSION_SPEED_FACTOR = uint64(20)
-const COIN_DIFFICULTY_TARGET = uint64(1)                 // this is a feeder to emission formula
+const COIN_DIFFICULTY_TARGET = uint64(120)                 // this is a feeder to emission formula
 const COIN_FINAL_SUBSIDY_PER_MINUTE = uint64(300000000000) // 0.3 DERO per minute = 157680 per year roughly
 const CRYPTONOTE_REWARD_BLOCKS_WINDOW = uint64(100)        // last 100 blocks are used to create
 
