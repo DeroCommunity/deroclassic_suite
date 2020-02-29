@@ -46,7 +46,7 @@ var mainnet_hard_forks = []Hard_fork{
 	// {0, 0,0,0,0,true}, // dummy entry so as we can directly use the fork index into this entry
 	{1,      0, 0, 0, 0, true}, // version 1 hard fork where genesis block landed and chain migration occurs
 	// version 1 has difficulty hardcoded to 1
-	{2, 88,  0, 0, 0, true}, // version 2 hard fork where Atlantis bootstraps , it's mandatory
+	{2, 89,  0, 0, 0, true}, // version 2 hard fork where Atlantis bootstraps , it's mandatory
         {3, 200, 0, 0, 0, true}, // version 3 hard fork emission fix, it's mandatory
 }
 
