@@ -48,6 +48,7 @@ var mainnet_hard_forks = []Hard_fork{
 	// version 1 has difficulty hardcoded to 1
 	{2, 30,  0, 0, 0, true}, // version 2 hard fork where Atlantis bootstraps , it's mandatory
         {3, 31, 0, 0, 0, true}, // version 3 hard fork emission fix, it's mandatory
+	{4, 250, 0, 0, 0, true},
 }
 
 // current testnet_hard_forks
